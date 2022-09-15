@@ -4,3 +4,8 @@ package calc
 func Sum(x, y float64) float64 {
 	return x + y
 }
+
+// Returns subtraction of x - y
+func Sub(x, y float64) float64 {
+	return x - y
+}

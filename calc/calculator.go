@@ -9,3 +9,8 @@ func Sum(x, y float64) float64 {
 func Sub(x, y float64) float64 {
 	return x - y
 }
+
+// Returns multiplication of x * y
+func Mult(x, y float64) float64 {
+	return x * y
+}
